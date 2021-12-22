@@ -10,12 +10,6 @@ For development purposes you will need either [docker]() or [node](https://nodej
 ### Getting started
 It's recommended to use docker-compose when building a full integration and NPM when just making graphical fixes
 
-Spinning up your environment in docker-compose
-'''CLI
-$ docker-compose up
-'''
-After this, your environment will be available on
-
 Spinning up your environment in yarn
 '''CLI
 $ yarn dev
