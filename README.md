@@ -5,16 +5,16 @@ The conduction commonground api connector consist of a
 ## Development
 
 ### Prerequsites
-For development purposes you wil need iether [docker]() or [node](https://nodejs.org/en/download/) installed on you local machine depending on what kind of development you are planning to execute.
+For development purposes you will need either [docker]() or [node](https://nodejs.org/en/download/) installed on you local machine depending on what kind of development you are planning to execute.
 
 ### Getting started
-Its recommended to use docker-compose when building a full integration and NPM when just making graphical fixes
+It's recommended to use docker-compose when building a full integration and NPM when just making graphical fixes
 
 Spinning up your environment in docker-compose
 ```CLI
 $ docker-compose up
 ```
-After this your environment wil be available on 
+After this your environment will be available on 
 
 
 Spinning up your environment in yarn
