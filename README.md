@@ -10,16 +10,16 @@ For development purposes you will need either [docker]() or [node](https://nodej
 ### Getting started
 It's recommended to use 
 
-'''
+```
 $ docker-compose 
-'''
+```
 
 when building a full integration and NPM when just making graphical fixes
 
 Spinning up your environment in yarn
 
-'''
+```
 $ yarn dev
-'''
+```
 
 After this, your environment will be available on http://localhost:3000
